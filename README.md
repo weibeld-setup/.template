@@ -7,7 +7,7 @@
 
 \<A short description of the project>
 
-## How to use it?
+## Installation
 
 ### macOS
 
@@ -25,5 +25,6 @@
 
 ![Android](https://raw.githubusercontent.com/weibeld-setup/.github/main/badges/android.svg)
 
-## What is it?
+## Notes
+
 
